@@ -2,4 +2,4 @@
 
 test 222222
 
-test mac git
+test mac git 222222
